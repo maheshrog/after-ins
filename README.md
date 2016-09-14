@@ -26,4 +26,4 @@ sudo apt-get update
 sudo apt-get install indicator-netspeed-unity
 ' ''
 
-`<code>`
+`<sudo apt-get install synaptic>`
