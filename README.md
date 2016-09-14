@@ -1,6 +1,7 @@
 # after-ins
 
-'''sudo apt-get install firefox
+'''
+sudo apt-get install firefox
 
 sudo apt-get install chromium-browser
 
