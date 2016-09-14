@@ -24,4 +24,9 @@ sudo apt-get install synaptic
 sudo add-apt-repository ppa:fixnix/netspeed
 sudo apt-get update
 sudo apt-get install indicator-netspeed-unity
+
+wget -O - http://repo.sinew.in/keys/enpass-linux.key | sudo apt-key add -
+
 ```
+
+http://ubuntuhandbook.org/index.php/2016/04/install-enpass-ubuntu-1604/
