@@ -26,4 +26,7 @@ sudo apt-get update
 sudo apt-get install indicator-netspeed-unity
 ' ''
 
-`<sudo apt-get install synaptic>`
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
