@@ -1,6 +1,6 @@
 # after-ins
 
-'' '
+```
 sudo apt-get install firefox
 
 sudo apt-get install chromium-browser
@@ -21,10 +21,6 @@ sudo apt-get install ubuntu-restricted-extras
 
 sudo apt-get install synaptic
 
-
-' ''
-
-```
 sudo add-apt-repository ppa:fixnix/netspeed
 sudo apt-get update
 sudo apt-get install indicator-netspeed-unity
