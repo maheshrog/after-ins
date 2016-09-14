@@ -25,8 +25,6 @@ sudo add-apt-repository ppa:fixnix/netspeed
 sudo apt-get update
 sudo apt-get install indicator-netspeed-unity
 
-wget -O - http://repo.sinew.in/keys/enpass-linux.key | sudo apt-key add -
-
 gsettings set org.pantheon.desktop.gala.appearance button-layout close,minimize,maximize
 
 ```
