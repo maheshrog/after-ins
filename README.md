@@ -26,7 +26,7 @@ sudo apt-get update
 sudo apt-get install indicator-netspeed-unity
 ' ''
 
-```javascript
+```
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
