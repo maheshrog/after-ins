@@ -27,6 +27,8 @@ sudo apt-get install indicator-netspeed-unity
 
 wget -O - http://repo.sinew.in/keys/enpass-linux.key | sudo apt-key add -
 
+gsettings set org.pantheon.desktop.gala.appearance button-layout close,minimize,maximize
+
 ```
 
 http://ubuntuhandbook.org/index.php/2016/04/install-enpass-ubuntu-1604/
